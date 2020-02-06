@@ -1,5 +1,6 @@
 module.exports = {
     dialect: 'postgres',
+    logging: false,
     host: 'localhost',
     username: 'postgres',
     password: 'docker',
